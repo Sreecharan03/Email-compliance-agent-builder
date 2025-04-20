@@ -14,3 +14,5 @@ email_compliance_project/
 └── utils/
     ├── email_utils.py
     └── rag_weaviate.py
+This repo is only for the workflow of the agentic builder.
+The original code isn't disclosed.!
